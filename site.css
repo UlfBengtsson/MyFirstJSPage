@@ -1,0 +1,13 @@
+.greenCube {
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  float: left;
+}
+
+.redCube {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  float: left;
+}
